@@ -1,0 +1,8 @@
+## Interface: 11302
+## Title: ChimaBags
+## Version: 0.0
+## Notes: Simple Bag Slot Counter
+## Author: Chimaya
+
+ChimaBags.lua
+ChimaBags.xml
